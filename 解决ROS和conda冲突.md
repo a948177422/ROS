@@ -1,5 +1,6 @@
 https://zhuanlan.zhihu.com/p/27011617
 
+```shell
 # 编辑.bashrc 顺序很重要！
 # ROS
 source /opt/ros/kinetic/setup.bash
@@ -16,4 +17,4 @@ pip install -U rosinstall
 
 # 安装ROS自带cv2的依赖
 conda install libgcc
-
+```

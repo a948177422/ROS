@@ -24,7 +24,7 @@ mkdir src
 mv web_video_server src/
 cd …/
 catkin_make
-roslaunch web_video_server web_video.launch
+rosrun web_video_server web_video_server
 ```
 
 ## 4 在web中显示效果

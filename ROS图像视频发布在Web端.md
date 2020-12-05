@@ -25,7 +25,6 @@ mv web_video_server src/
 cd …/
 catkin_make
 roslaunch web_video_server web_video.launch
-roscore
 ```
 
 ## 4 在web中显示效果
